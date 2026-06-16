@@ -7,13 +7,13 @@ This is a simple console-based Library Management System built using Python. It 
 
 🚀 Features
 --------------
-Add new books
-Remove books
-Search books by title
-Display all books
-Borrow books
-Return books
-Handle book availability status
+- Add new books
+- Remove books
+- Search books by title
+- Display all books
+- Borrow books
+- Return books
+- Track book availability
 
 🛠️ Technologies Used
 ---------------------
